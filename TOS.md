@@ -42,7 +42,7 @@ You agree to indemnify, defend, and hold harmless The Protection Bots, its devel
 
 ### 9. Governing Law
 
-These ToS shall be governed by and construed in accordance with the laws of [Your Country/State]. Any disputes arising out of these terms shall be resolved in the courts of [Your Country/State].
+These ToS shall be governed by and construed in accordance with the laws of The United States, State of Pennsylvania. Any disputes arising out of these terms shall be resolved in the courts of The United States, State of Pennsylvania.
 
 ### 10. Contact Information
 
