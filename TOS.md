@@ -46,4 +46,4 @@ These ToS shall be governed by and construed in accordance with the laws of [You
 
 ### 10. Contact Information
 
-If you have any questions about these ToS, please contact us at [Your Contact Information].
+If you have any questions about these ToS, please contact us at Discordprotectionbots@gmail.com
