@@ -2,7 +2,7 @@
 
 ### Introduction
 
-####The Protection Bots are a group of bots designed to protect discord servers from certain attack Vectors by use of algorythems,
+#### The Protection Bots are a group of bots designed to protect discord servers from certain attack Vectors by use of algorythems,
   1 using a blacklist built by the bot and other servers to help keep spammng and hacking activities to a minimum.
   2 protect against link spamming
   3 Protect against Server invite spamming
