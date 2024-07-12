@@ -3,12 +3,12 @@
 ### Introduction
 
 #### The Protection Bots are a group of bots designed to protect discord servers from certain attack Vectors by use of algorythems,
-  1 using a blacklist built by the bot and other servers to help keep spammng and hacking activities to a minimum.
-  2 protect against link spamming
-  3 Protect against Server invite spamming
-  4 Backup server structure and permissions
-  5 Backup a users permissions to the server
-  6 Re-apply permissions to a person if they rejoin the server (optional)
+-  1 using a blacklist built by the bot and other servers to help keep spammng and hacking activities to a minimum.
+-  2 protect against link spamming
+-  3 Protect against Server invite spamming
+-  4 Backup server structure and permissions
+-  5 Backup a users permissions to the server
+-  6 Re-apply permissions to a person if they rejoin the server (optional)
 
 
 #### Discord Link Spamming, 
@@ -16,7 +16,7 @@
 they will be timed out or banned From the server. This action may add them to the blacklist and the bots may prevent that user from rejoining a server
 
 #### Discord Server Spamming
-#####When a user Joins a server and Spams Links to multiple channels that may contain an attack and there are no admins around,
+##### When a user Joins a server and Spams Links to multiple channels that may contain an attack and there are no admins around,
 The bot will detect this action and through propriatery algorythims and determine if a user trips the alarm threshold depending on the alamr detected
 
 #### Takeover Attack
