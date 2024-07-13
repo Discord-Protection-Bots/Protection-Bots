@@ -1,3 +1,5 @@
+# This page is under construction- Please forgive any spelling or other errors. 
+
 ## What are The Protection Bots
 
 ### Introduction
@@ -27,8 +29,8 @@
 --   The bot ignores all messages that do match a certain criteria, and the based on what the message says if it meets the criteria, the bot will determine if this is one of the items to watch for.
 - What does the bot store from my server.
 --   Only information stored is your settings so they can be refrenced if the need arizes.
-- 
-- 
+
+  
 
 
 #### Discord Link Spamming, 
