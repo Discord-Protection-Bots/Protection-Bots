@@ -16,17 +16,17 @@
 #### Permission Faq
 #####
 - Can Protection bot kick or ban users?
--   Yes Protection can kick or ban any users that exist below the level of the bot
+--   Yes Protection can kick or ban any users that exist below the level of the bot
 - What Level Should the bot be in the permission list?
--   The Bot Should exist directly below the owner of the server (at the top of the list)
+--   The Bot Should exist directly below the owner of the server (at the top of the list)
 - Can the Bot Read Messages in my Channels?
--   Yes The bot can read messages in all the channels you give it permission to, We recommend allowing the bot to work in all channels
+--   Yes The bot can read messages in all the channels you give it permission to, We recommend allowing the bot to work in all channels
 - Can I limit what channels the bot has access to see?
--   You may invite the bot, without any permissions and specify what permissions it has manually
+--   You may invite the bot, without any permissions and specify what permissions it has manually
 - What does the bot do with messages that it reads?
--   The bot ignores all messages that do match a certain criteria, and the based on what the message says if it meets the criteria, the bot will determine if this is one of the items to watch for.
+--   The bot ignores all messages that do match a certain criteria, and the based on what the message says if it meets the criteria, the bot will determine if this is one of the items to watch for.
 - What does the bot store from my server.
--   Only information stored is your settings so they can be refrenced if the need arizes.
+--   Only information stored is your settings so they can be refrenced if the need arizes.
 - 
 - 
 
