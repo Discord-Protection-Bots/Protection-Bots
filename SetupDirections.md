@@ -1,1 +1,3 @@
-#Setting up the Protection Bots
+# Setting up the Protection Bots
+## Inviting the bot's
+
